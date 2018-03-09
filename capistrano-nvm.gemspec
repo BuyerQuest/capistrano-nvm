@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
   spec.email         = ['me@koen.pt']
   spec.description   = %q{nvm support for Capistrano 3.x}
   spec.summary       = %q{nvm support for Capistrano 3.x}
-  spec.homepage      = 'https://github.com/koenpunt/capistrano-nvm'
+  spec.homepage      = 'https://github.com/BuyerQuest/capistrano-nvm'
   spec.license       = 'MIT'
 
   spec.files         = `git ls-files`.split($/)
